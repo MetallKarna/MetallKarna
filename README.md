@@ -36,9 +36,8 @@ A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nomb
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
  
 ---
- 
-## 📂 Proyectos destacados
  <!--
+## 📂 Proyectos destacados
 - **[Proyecto #1](URL_DEL_REPOSITORIO)**
   - Descripción corta de lo que hace tu proyecto, sus objetivos o tecnologías clave.
  
@@ -47,9 +46,9 @@ A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nomb
  
 - **[Proyecto #3](URL_DEL_REPOSITORIO)**
   - Incluye curiosidades, retos que resolviste o la motivación detrás.
- -->
----
  
+---
+  -->
 ## 📫 ¿Dónde encontrarme?
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/iv%C3%A1n-burgos-maccolm-56b34223b/)
