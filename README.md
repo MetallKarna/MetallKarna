@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Iván Burgos.
- 
-[Rol o especialidad principal] | Apasionado por [tema que te motive] | En constante aprendizaje
- 
+<!--
+Desarrollador de Aplicaciones Multiplataforma
+-->
 ---
  
 ## 🚀 Sobre mí
@@ -15,9 +15,9 @@ Hola, soy Iván Burgos, estudiante de Desarrollo de Aplicaciones Multiplataforma
 ---
  
 ## 🛠️ Tecnologías y herramientas
- 
+<!--
 A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nombre de la tecnología y la URL de la imagen si lo deseas.
- 
+ -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
