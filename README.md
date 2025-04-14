@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Iván Burgos.
-<!--
+
 Desarrollador de Aplicaciones Multiplataforma
--->
+
 ---
  
 ## 🚀 Sobre mí
