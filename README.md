@@ -33,7 +33,7 @@ A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nomb
 ## 📚 GitHub Analytics
  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MetallKarna&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MetallKarna&layout=compact&theme=tokyonight)
  
 ---
  <!--
